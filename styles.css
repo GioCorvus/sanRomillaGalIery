@@ -109,7 +109,7 @@ hr {
 }
 
 .gallery {
-    margin: 0px 500px 0px 500px;
+    margin: 0px 200px 0px 200px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
